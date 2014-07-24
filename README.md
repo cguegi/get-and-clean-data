@@ -9,3 +9,5 @@ To run the script use the following commands:
 	run_analysis()
 
 The R code will generate a tidy data set called `FinalTidyData.txt`
+
+The enclosed [code book](https://github.com/cguegi/get-and-clean-data/blob/master/CodeBook.md) includes further information about the variables and the performed transformations.
