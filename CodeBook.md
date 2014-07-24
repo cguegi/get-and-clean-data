@@ -1,9 +1,6 @@
 CodeBook
 ==================
 
-	It describes the variables, the data, and any transformations or work to clean up the data.
-
-
 The data used represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available here: [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 The labeled dataset is partitioned into a training set (70%) and a test set (30%) and includes the following files:
